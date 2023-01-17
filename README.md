@@ -16,6 +16,7 @@ recon automation tool
 
 
 notice : output file in desktop folder
+notice : your gf-output is empty this not vulnerable , check manually
 
 <h2>perfectly worked in kali linux</h2>
 
