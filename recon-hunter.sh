@@ -13,7 +13,7 @@ read company
 mkdir ~/Desktop/output/$company
 
 while true; do
-    echo -en "\n1 for subdomain & httpx & httprobe & screenshot \n2 for gau & waybackurl & gf\n3 for exit\nenter:" 
+    echo -en "\n1 for subdomain & httpx & httprobe & screenshot & subzy \n2 for gau & waybackurl & gf\n3 for exit\nenter:" 
     read input
     if [ "$input" == "1" ]; then
         echo "Executing program 1"
