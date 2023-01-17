@@ -14,6 +14,9 @@ recon automation tool
 
 6../recon-hunter.sh
 
+
+notice : output file in desktop floder
+
 <h2>perfectly worked in kali linux</h2>
 
 if you have any error contact me
