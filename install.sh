@@ -6,7 +6,6 @@ sudo apt-get -y update
 sudo apt-get -y upgrade
 
 sudo apt-get install -y python3-pip
-sudo apt-get install -y python-pip
 sudo apt-get install -y git
 
 echo "Installing Golang"
