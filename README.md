@@ -10,10 +10,11 @@ recon automation tool
 
 4.chmod +x recon-hunter.sh
 
-5../install.sh
+5.bash install.sh
 
-6../recon-hunter.sh
+6.bash recon-hunter.sh
 
+if you have tool install error , return the bash install.sh 
 
 notice : output file in desktop folder
 
