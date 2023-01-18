@@ -42,10 +42,11 @@ else
 
 fi
 
-clear
 
+sleep 5
+clear
 echo "Now installing tools"
-sleep 4
+sleep 3
 
 # Check if assetfinder is installed
 if ! [ -x "$(command -v assetfinder)" ]; then
