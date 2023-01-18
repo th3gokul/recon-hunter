@@ -14,12 +14,12 @@ recon automation tool
 
 6.bash recon-hunter.sh
 
-if you have tool install error , return the bash install.sh 
+<h3>if you have tool installation error , return execute bash install.sh</h3>
 
-notice : output file in desktop folder
+<h3>notice : output file in desktop folder</h3>
 
-notice : your gf-output is empty this not vulnerable , check manually
+<h3>notice : your gf-output is empty this not vulnerable , check manually</h3>
 
 <h2>perfectly worked in kali linux</h2>
 
-if you have any error contact me
+<h3>if you have any error contact me</h3>
