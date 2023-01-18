@@ -163,7 +163,7 @@ while true; do
 
         echo "------Paramspider start-----------"
 
-        cd ~/my-stuff/Recon/ParamSpider/ && python3 paramspider.py --domain $domain | tee ~/Desktop/output/$company/result2/$company-paramspider.txt
+        cd ~/Recon/ParamSpider/ && python3 paramspider.py --domain $domain | tee ~/Desktop/output/$company/result2/$company-paramspider.txt
 
         echo "-----extracting paramspider result to http only -> http-paramspider.txt"
         sleep 2
