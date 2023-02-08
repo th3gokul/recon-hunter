@@ -113,7 +113,7 @@ while true; do
 
         #subzy subdomain takeover
 
-        subzy -targets all-subdomains.txt | tee subdomain-takeover.txt
+        subzy run --targets all-subdomains.txt | tee subdomain-takeover.txt
 
         read -p "Do you want to proceed? (yes/no) " yn
         case $yn in 
